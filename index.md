@@ -25,6 +25,8 @@ _layout: landing
 * [SonarQubeWebApi](https://bassman2.github.io/SonarQubeWebApi/)
 * [TheTVDBWebApi](https://bassman2.github.io/TheTVDBWebApi/)
 
+* [WebServiceClient](https://bassman2.github.io/WebServiceClient/)
+
 ## Libraries
 
 * [WpfToolbox](https://bassman2.github.io/WpfToolbox/)
